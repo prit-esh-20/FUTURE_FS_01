@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](#)
+🔗 https://comfy-mermaid-2b8326.netlify.app/
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/prit-esh-20/Tarun-s-Portfolio.git]
+git clone [https://github.com/prit-esh-20/FUTURE_FS_01.git]
 cd your-repo-name
 ```
 
